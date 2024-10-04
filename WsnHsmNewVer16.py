@@ -2,6 +2,7 @@
 # *********************************************
 # *   Wireless Sensor Network Simulation      *
 # *                  by                       *
+# *	         Mrudang Mehta                *
 # *	         Himanshu Mazumdar                *
 # *	       Date:- 31-August-2022              *
 # *********************************************
