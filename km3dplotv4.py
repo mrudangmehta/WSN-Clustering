@@ -1,5 +1,10 @@
-#*An Analysis tool for 3D Plot for WSN Clustering Algorithms comparision
-
+#*     An Analysis tool for 3D Plot for    *
+#*   WSN Clustering Algorithms comparision *
+# *                  by                    *
+# *	         Mrudang Mehta                *
+# *	         Himanshu Mazumdar              *
+# *	       Date:- 10-September-2024         *
+# *********************************************
 import os
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
