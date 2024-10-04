@@ -1,9 +1,10 @@
 # ClusterHsm.py
 # *********************************************
-# *       A new Clustering Algorithm          *
-# *                  by                       *
-# *	         Himanshu Mazumdar                *
-# *	       Date:- 31-August-2022              *
+# *       A new Clustering Algorithm         *
+# *                  by                      *
+# *               Mrudang Mehta               *
+# *	         Himanshu Mazumdar            *
+# *	       Date:- 31-August-2022         *
 # *********************************************
 import math
 import random
