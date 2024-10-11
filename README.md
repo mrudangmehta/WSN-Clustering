@@ -116,7 +116,7 @@ Figure-10 KMean and Proposed Approach WSN Clustering Distance Comparision for Da
 
 ![Result3_extm](https://github.com/user-attachments/assets/002cfc54-2f13-449a-964e-2b0da62d8161)
 
-Figure-11 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 2
+Figure-11 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 3
 
 
 ### Summary of Kmeans vs mCluster Comparison Based on the Provided Visuals:
