@@ -44,7 +44,29 @@
 
 **End**
 
-**Results and comparision with Kmean algorithm**
+###**Results and comparision with Kmean algorithm**###
+
+**KMean Clustering Algorithm: Deployment and Clustering**
+![kmean_deployment](https://github.com/user-attachments/assets/35321615-d2a3-43b9-8d84-601e9bf0eda1)
+
+![Kmean_result](https://github.com/user-attachments/assets/2a027d3b-a1a7-42b0-8583-a0b5f3b65b8e)
+
+
+**Proposed Clustering Algorithm: Deployment and Clustering**
+
+Deployment for Kmean clustering and Proposed algorithm's clustering is same. We have saved the coordinates into the csv file.
+
+Deployment (coordinates are same as used for Kmean clustering)
+
+![ClusterHsm](https://github.com/user-attachments/assets/9bcd4cc5-350b-4cea-b624-d823cccb830c)
+
+Clustering Phase
+
+![ClusterHsm_cluster](https://github.com/user-attachments/assets/33fd207f-4398-4304-879f-92a8be44bc9b)
+
+Optimization of the Clustering Phase
+
+![ClusterHsm_opt](https://github.com/user-attachments/assets/e2245882-925d-4fa3-8bf4-d1add0358e4f)
 
 **RESULT 1**
 
