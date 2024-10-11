@@ -89,26 +89,34 @@ Figure-5 Optimized Clustering in Wireless Sensor Networks: An Interactive GUI-Ba
 
 ![Result1_dist](https://github.com/user-attachments/assets/f2a230fd-eb12-486e-ad16-dcbc3ca2e6bf)
 
+Figure-6 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 1
+
 ![Result1_extm](https://github.com/user-attachments/assets/02e0679d-eb61-405b-b8e2-62440919aa79)
 
+Figure-7 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 1
 
 **RESULT 2**
 
 
 ![Result2_dis](https://github.com/user-attachments/assets/c9d2add3-9557-4e06-b1fe-e18eedf476bd)
 
+Figure-8 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 2
 
 ![Result2_extm](https://github.com/user-attachments/assets/0dd04c22-bedd-42ce-8e9e-ba2cd923fcd7)
 
+Figure-9 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 2
 
 **RESULT 3**
 
 
 ![Result3_dis](https://github.com/user-attachments/assets/62cddd48-cf47-44ad-acb1-3b2445d211f4)
 
+Figure-10 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 3
+
 
 ![Result3_extm](https://github.com/user-attachments/assets/002cfc54-2f13-449a-964e-2b0da62d8161)
 
+Figure-11 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 2
 
 
 ### Summary of Kmeans vs mCluster Comparison Based on the Provided Visuals:
