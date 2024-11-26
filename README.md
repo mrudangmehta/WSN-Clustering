@@ -123,6 +123,12 @@ Figure-9 KMean and Proposed Approach WSN Clustering Distance Comparision for Dat
      - Even with a larger number of nodes and groups, mCluster maintains lower distances, clustering more tightly.
      - The distance stays consistently lower, indicating better optimization in terms of proximity within clusters.
 
+**3D Clustering Video**
+In this paper, we used clustering for 2D elements. We have extended this for 3D and more. 
+
+
+
+https://github.com/user-attachments/assets/673ce727-ba3f-4024-9705-455274b01a20
 
 
 ### Conclusion:
