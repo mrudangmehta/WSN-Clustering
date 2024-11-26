@@ -102,21 +102,13 @@ Figure-7 KMean and Proposed Approach WSN Clustering Execution Time Comparision f
 
 Figure-8 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 2
 
-![Result2_extm](https://github.com/user-attachments/assets/0dd04c22-bedd-42ce-8e9e-ba2cd923fcd7)
-
-Figure-9 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 2
-
-**RESULT 3**
 
 
 ![Result3_dis](https://github.com/user-attachments/assets/62cddd48-cf47-44ad-acb1-3b2445d211f4)
 
-Figure-10 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 3
+Figure-9 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 3
 
 
-![Result3_extm](https://github.com/user-attachments/assets/002cfc54-2f13-449a-964e-2b0da62d8161)
-
-Figure-11 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 3
 
 
 ### Summary of Kmeans vs mCluster Comparison Based on the Provided Visuals:
@@ -131,13 +123,7 @@ Figure-11 KMean and Proposed Approach WSN Clustering Execution Time Comparision 
      - Even with a larger number of nodes and groups, mCluster maintains lower distances, clustering more tightly.
      - The distance stays consistently lower, indicating better optimization in terms of proximity within clusters.
 
-2. **Execution Time Comparison (Result 1,2 and 3)**:
-   - **Kmeans Execution Time**: 
-     - Has a higher execution time overall, especially as the number of nodes and groups increases.
-     - The execution time varies significantly, ranging from low values to over 250 milliseconds for larger configurations.
-   - **mCluster Execution Time**: 
-     - Demonstrates significantly lower execution times, even with increasing nodes and groups.
-     - The execution time for mCluster remains relatively low and consistent, suggesting more efficient processing compared to Kmeans.
+
 
 ### Conclusion:
 - **Kmeans** shows higher distances and execution times, indicating that while it clusters data, it may not be as efficient as mCluster for large datasets.
