@@ -91,9 +91,6 @@ Figure-5 Optimized Clustering in Wireless Sensor Networks: An Interactive GUI-Ba
 
 Figure-6 KMean and Proposed Approach WSN Clustering Distance Comparision for Dataset 1
 
-![Result1_extm](https://github.com/user-attachments/assets/02e0679d-eb61-405b-b8e2-62440919aa79)
-
-Figure-7 KMean and Proposed Approach WSN Clustering Execution Time Comparision for Dataset 1
 
 **RESULT 2**
 
