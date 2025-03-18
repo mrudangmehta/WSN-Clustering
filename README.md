@@ -11,7 +11,7 @@
 
 
 
-
+## Running K-means Clustering
 ![Figure1_creatNodes](https://github.com/user-attachments/assets/f6618e07-4bb2-4dd9-8714-6138df2ab30f)
 
 
