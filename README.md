@@ -19,6 +19,27 @@ The algorithm assumes all nodes are localized as suggested in https://github.com
 
 Notably, the proposed algorithm incorporates a dynamic cluster head selection mechanism that takes into account factors such as residual energy, communication range, and connectivity with other nodes. This adaptive mechanism enables the algorithm to accommodate changes in node characteristics and network conditions, thereby ensuring efficient and well-balanced cluster formation.
 
+
+## Mathematical Formulation for Clustering
+![image](https://github.com/user-attachments/assets/f8736e12-7085-4fe4-a7a1-df2b45f7461e)
+
+
+
+![image](https://github.com/user-attachments/assets/2c930fbc-1a2f-4f87-b9f8-13d40755a836)
+
+
+
+![image](https://github.com/user-attachments/assets/f28ec931-af5b-4743-8ff1-0e5966ba16fd)
+
+
+
+![image](https://github.com/user-attachments/assets/0e0b2692-a394-4cc0-a611-e688afe27f5c)
+
+
+
+
+
+
 ## Algorithm
 
 **Start**
