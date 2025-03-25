@@ -24,6 +24,7 @@
 
 
 
+
 ![Figure3_SaveCoordinates](https://github.com/user-attachments/assets/d794579a-1651-4455-944c-7c03424ab666)
 
 
@@ -74,7 +75,14 @@
 
 
 
+# 3D Clustering Video
 
+
+## In this research, we used clustering for 2D elements. We have extended this for 3D and more. 
+
+
+
+https://github.com/user-attachments/assets/673ce727-ba3f-4024-9705-455274b01a20
 
 
 
